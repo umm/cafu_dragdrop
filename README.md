@@ -2,21 +2,25 @@
 
 ## What
 
-* 
+* Drag Drop utility for CAFU framework
 
 ## Requirement
 
-* 
+Sadly, cafu v3 is not supporting now.
+
+For more details, check [package.json](./package.json)
 
 ## Install
 
 ```shell
-yarn add "umm/cafu_dragdrop#^1.0.0"
+yarn add "umm@cafu_dragdrop#^1.0.0"
 ```
 
 ## Usage
 
-* 
+See [Example](./Assets/Examples/)
+
+![dragdrop](./art/dragdrop.gif)
 
 ## License
 
