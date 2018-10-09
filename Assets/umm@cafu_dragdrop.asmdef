@@ -1,0 +1,14 @@
+{
+    "name": "umm@cafu_dragdrop",
+    "references": [
+        "umm@cafu_core",
+        "umm@extra_bounds",
+        "umm@extra_collection",
+        "umm@extra_unirx",
+        "umm@unirx"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

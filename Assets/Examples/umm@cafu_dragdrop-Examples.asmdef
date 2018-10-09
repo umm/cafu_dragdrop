@@ -1,0 +1,13 @@
+{
+    "name": "umm@cafu_dragdrop-Examples",
+    "references": [
+        "umm@cafu_core",
+        "umm@cafu_dragdrop",
+        "umm@unirx_observablelifecyclemonobehaviour",
+        "umm@unirx"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

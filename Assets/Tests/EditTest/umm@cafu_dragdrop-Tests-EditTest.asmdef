@@ -1,0 +1,17 @@
+{
+    "name": "umm@cafu_dragdrop-Tests-EditTest",
+    "references": [
+        "umm@cafu_dragdrop",
+        "umm@unirx",
+        "umm@cafu_core",
+        "umm@extra_unirx"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
