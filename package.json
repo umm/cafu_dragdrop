@@ -1,6 +1,6 @@
 {
   "name": "@umm/cafu_dragdrop",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Drag and drop utility for cafu",
   "homepage": "https://github.com/umm/cafu_dragdrop",
   "bugs": {
