@@ -24,7 +24,13 @@
     "Assets"
   ],
   "dependencies": {
-    "@umm/scripts": "umm/scripts#^1.0.0"
+    "@umm/scripts": "umm/scripts#^1.0.0",
+    "@umm/cafu_core": "umm/cafu_core#^2.0.0",
+    "@umm/unirx": "umm/unirx#^2.0.0",
+    "@umm/extra_collection": "umm/extra_collection#^1.0.0",
+    "@umm/extra_unirx": "umm/extra_unirx#^1.0.0",
+    "@umm/extra_bounds": "umm/extra_bounds#^1.0.0",
+    "@umm/unirx_observablelifecyclemonobehaviour": "umm/unirx_observablelifecyclemonobehaviour#^1.0.0"
   },
   "devDependencies": {}
 }
