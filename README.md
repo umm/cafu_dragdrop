@@ -13,7 +13,7 @@ For more details, check [package.json](./package.json)
 ## Install
 
 ```shell
-yarn add "umm@cafu_dragdrop#^1.0.0"
+yarn add "umm/cafu_dragdrop#^1.0.0"
 ```
 
 ## Usage
